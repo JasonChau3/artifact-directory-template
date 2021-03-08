@@ -1,0 +1,7 @@
+Title:
+Stock Market Sentiment Predictor
+
+Abstract:
+In this project, we aim to produce a tool that will be able to predict the stock movement of a company. The output will be a binary output where
+it will indicated whether we are bullish or bearish on a stock. In our pursuit of making this tool, we will incorporate graph convolutional networks
+to take advantage of the interconnected features of stocks.
